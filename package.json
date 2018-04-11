@@ -1,0 +1,22 @@
+{
+  "name": "cloze-constructor",
+  "version": "1.0.0",
+  "description": "flash card app",
+  "main": "BasicCardConstructor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakiohma/cloze-constructor.git"
+  },
+  "author": "Courtney Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sakiohma/cloze-constructor/issues"
+  },
+  "homepage": "https://github.com/sakiohma/cloze-constructor#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0"
+  }
+}
